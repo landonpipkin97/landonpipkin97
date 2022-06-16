@@ -1,2 +1,2 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonpipkin97&hide=stars&bg_color=282a36&title_color=f8f8f2&border_color=6272a4&icon_color=8be9fd&text_color=bd93f9)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonpipkin97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonpipkin97&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
